@@ -18,7 +18,7 @@ We can also use a single * around a block of text to indicate an *italicesed* wo
 
 ###Let's throw an image in here
 
-![KKBL014B]({static}/images/kkbl014b_1_600.jpg)
+![KKBL014B]({static}/images/aks_logo_header-300x75.png)
 
 
 
